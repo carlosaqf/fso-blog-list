@@ -2,8 +2,8 @@ post http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-   "title":"Testing Adding a Blog!",
-   "author":"Carlos Fegurgur",
-   "url":"http://thisistheblogurl.com",
-   "likes": 10
+   "title":"This blog was adding using async/await!",
+   "author":"Carlos Quan",
+   "url":"http://thisisthenewblogurl.com",
+   "likes": 5
 }

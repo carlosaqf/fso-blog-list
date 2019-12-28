@@ -1,0 +1,10 @@
+put http://localhost:3003/api/blogs/5e052f98a7b7e4558c5f1ae1
+Content-Type: application/json
+
+{
+    "title":"This is a test blog",
+    "author":"Russell Wilson",
+    "url":"thisisthenewurl.com",
+    "likes":5
+}
+
